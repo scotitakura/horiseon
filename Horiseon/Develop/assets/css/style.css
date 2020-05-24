@@ -45,6 +45,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/* HEADER STYLE END */
 
 p {
     font-size: 16px;
@@ -58,6 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* HERO STYLE END */
 
 .float-left {
     float: left;
@@ -74,6 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* MAIN STYLE END */
 
 .benefits {
     margin-right: 20px;
@@ -187,6 +190,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* ASIDE STYLE END */
 
 .footer {
     padding: 30px;
@@ -198,3 +202,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* FOOTER STYLE END */
